@@ -1,0 +1,35 @@
+[
+  {
+    "id": "0",
+    "tribeTransactionId": "string",
+    "tribeCardId": 0,
+    "amount": "€1000",
+    "status": "successed",
+    "tribeTransactionType": "income",
+    "schemeId": "string",
+    "merchantName": "Load",
+    "pan": ""
+  },
+  {
+    "id": "1",
+    "tribeTransactionId": "string",
+    "tribeCardId": 0,
+    "amount": "-€500",
+    "status": "pending",
+    "tribeTransactionType": "withdrawal",
+    "schemeId": "string",
+    "merchantName": "Google",
+    "pan": "7544"
+  },
+  {
+    "id": "2",
+    "tribeTransactionId": "string",
+    "tribeCardId": 0,
+    "amount": "-€1,299",
+    "status": "failed",
+    "tribeTransactionType": "withdrawal",
+    "schemeId": "string",
+    "merchantName": "Google",
+    "pan": "7544"
+  }
+]

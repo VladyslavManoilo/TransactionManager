@@ -1,0 +1,58 @@
+{
+  "cards": [
+    {
+      "id": "0",
+      "cardLast4": "4141",
+      "cardName": "Virtual card",
+      "isLocked": true,
+      "isTerminated": true,
+      "spent": 0,
+      "limit": 0,
+      "limitType": "PerMonth",
+      "cardHolder": {
+        "id": "0",
+        "fullName": "string",
+        "email": "string",
+        "logoUrl": "string"
+      },
+      "fundingSource": "ACH",
+      "issuedAt": "2024-05-06T08:24:49.897Z"
+    },
+    {
+      "id": "1",
+      "cardLast4": "0000",
+      "cardName": "Slack",
+      "isLocked": true,
+      "isTerminated": true,
+      "spent": 0,
+      "limit": 0,
+      "limitType": "PerMonth",
+      "cardHolder": {
+        "id": "string",
+        "fullName": "string",
+        "email": "string",
+        "logoUrl": "string"
+      },
+      "fundingSource": "ACH",
+      "issuedAt": "2024-05-06T08:24:49.897Z"
+    },
+    {
+      "id": "2",
+      "cardLast4": "5555",
+      "cardName": "Google",
+      "isLocked": true,
+      "isTerminated": true,
+      "spent": 0,
+      "limit": 0,
+      "limitType": "PerMonth",
+      "cardHolder": {
+        "id": "string",
+        "fullName": "string",
+        "email": "string",
+        "logoUrl": "string"
+      },
+      "fundingSource": "ACH",
+      "issuedAt": "2024-05-06T08:24:49.897Z"
+    }
+  ]
+}
